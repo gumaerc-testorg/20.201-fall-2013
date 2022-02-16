@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lecture and Recitation Slides
 uid: b3b11dfa-cd78-c832-bea1-3ebf68f85796
 ---
