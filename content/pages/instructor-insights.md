@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 5119f0bc-2ef3-1f46-19c0-3a8bb89247f3
 ---
@@ -52,20 +54,6 @@ It is a “Restricted Elective,” which means that it intended to prepare stude
 ### Offered
 
 Every fall semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A large classroom with tiered seating, several chalkboards, and a projector.]({{< resource_file ffc8ba07-82fc-1291-13c4-7f5e18de1b4a >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture & Recitation
-    
-    Lectures and recitations were held in a large classroom with chalkboards and a projector.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
