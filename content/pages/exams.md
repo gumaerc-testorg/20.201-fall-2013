@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the take-home exam for the course, supporting files,
+  and solutions. Exams with solutions from past years are also provided as study materials.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -26,19 +28,19 @@ SOLUTIONS
 {{< tdopen >}}
 
 
-[Take-Home Exam (PDF)]({{< baseurl >}}/resources/mit20_201f13_2013_quiz)
+{{% resource_link f05a2079-39b0-b864-83cd-1d37c26acfe0 "Take-Home Exam (PDF)" %}}
 
-*   [Question 2 Structures (PDF)]({{< baseurl >}}/resources/mit20_201f13_qustn2_strcts)
-*   [Extra Credit Question (PDF)]({{< baseurl >}}/resources/mit20_201f13_extracredit)
+*   {{% resource_link cbb22cad-c1ae-5945-c493-1fb9ce2e05fe "Question 2 Structures (PDF)" %}}
+*   {{% resource_link be8844ad-ca2b-7eaf-2482-5a7e7dee516f "Extra Credit Question (PDF)" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Solutions to Question 2 (PDF)]({{< baseurl >}}/resources/mit20_201f13_soluqueston2)
+{{% resource_link d4585ce5-2430-0315-daf1-d5e67ff15212 "Solutions to Question 2 (PDF)" %}}
 
-[Solutions to Question 3 (PDF)]({{< baseurl >}}/resources/mit20_201f13_soluqueston3)
+{{% resource_link 5ce75bd4-59f2-a7dd-b755-0004940a2f93 "Solutions to Question 3 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -64,19 +66,19 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[2012 Take-Home Exam (PDF)]({{< baseurl >}}/resources/mit20_201f13_2012_quiz)
+{{% resource_link c334dfc4-d1da-f207-2704-af5572ce922a "2012 Take-Home Exam (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solutions to 2012 Take-Home Exam (PDF)]({{< baseurl >}}/resources/mit20_201f13_2012solutions)
+{{% resource_link 175b0d6a-7ed9-8f33-787c-28fd71385f6b "Solutions to 2012 Take-Home Exam (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[2011 Take-Home Exam (PDF)]({{< baseurl >}}/resources/mit20_201f13_2011_quiz)
+{{% resource_link 5de5b09c-2c4a-8c03-0805-b49cc9edd0fd "2011 Take-Home Exam (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solutions to 2011 Take-Home Exam (PDF)]({{< baseurl >}}/resources/mit20_201f13_2011solutions)
+{{% resource_link 4021886f-e293-4dd4-9063-6637d5672c13 "Solutions to 2011 Take-Home Exam (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

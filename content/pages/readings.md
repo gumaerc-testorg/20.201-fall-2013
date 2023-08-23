@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the course textbooks and the schedule
+  of readings by lecture session and topic.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -195,7 +197,7 @@ Drug Toxicity 1
 
 \[Golan\] Chapters 5 and 41
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)_Guidance for Industry: Drug-Induced Liver Injury: Premarketing Clinical Evaluation_. (PDF)](https://www.fda.gov/media/116737/download) U.S. Department of Health and Human Services; Food and Drug Administration; Center for Drug Evaluation and Research (CDER); Center for Biologics Evaluation and Research (CBER). July 2009.
+[_Guidance for Industry: Drug-Induced Liver Injury: Premarketing Clinical Evaluation_. (PDF)](https://www.fda.gov/media/116737/download) U.S. Department of Health and Human Services; Food and Drug Administration; Center for Drug Evaluation and Research (CDER); Center for Biologics Evaluation and Research (CBER). July 2009.
 
 Giacomini, Kathleen M., Shiew-Mei Huang, et al. "[Membrane Transporters in Drug Development](http://dx.doi.org/10.1038/nrd3028)." _Nature Reviews Drug Discovery_ 9, no. 3 (2010): 215–36.
 
@@ -327,7 +329,7 @@ Case Study: Antibiotics
 
 \[Golan\] Chapters 32, 33, and 34
 
-[Antibiotic Resistance Threats in the United States, 2013](http://www.cdc.gov/drugresistance/threat-report-2013/) [(PDF - 4.0MB)]({{< baseurl >}}/resources/mit20_201f13_antbiorstnce) Centers for Disease Control and Prevention.
+[Antibiotic Resistance Threats in the United States, 2013](http://www.cdc.gov/drugresistance/threat-report-2013/) {{% resource_link 13e2b479-19d3-fe1b-1da0-e7eeb27b6e4d "(PDF - 4.0MB)" %}} Centers for Disease Control and Prevention.
 
 Dwyer, Daniel J., Michael A. Kohanski, et al. "[Role of Reactive Oxygen Species in Antibiotic Action and Resistance](http://dx.doi.org/10.1016/j.mib.2009.06.018)." _Current Opinion in Microbiology_ 12, no. 5 (2009): 482–9.
 
