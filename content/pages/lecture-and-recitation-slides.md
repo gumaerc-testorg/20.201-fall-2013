@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides notes from selected lecture and recitation sessions
+  of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Lecture and Recitation Slides
@@ -70,7 +72,7 @@ LECTURERS
 L1
 {{< tdclose >}}
 {{< tdopen >}}
-[Introduction and Fundamentals (PDF)]({{< baseurl >}}/resources/mit20_201f13_l1_introslide)
+{{% resource_link 2260e75b-bccb-20b9-0ae0-3351363b7a2f "Introduction and Fundamentals (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 PD, MM, ST
@@ -94,7 +96,7 @@ MM
 L3
 {{< tdclose >}}
 {{< tdopen >}}
-[Overview of Drug Development 2 (PDF - 9.0MB)]({{< baseurl >}}/resources/mit20_201f13_l3_drugdev2)
+{{% resource_link 802899ae-4044-eae5-1db2-424825fb34b5 "Overview of Drug Development 2 (PDF - 9.0MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 MM
@@ -106,7 +108,7 @@ MM
 R1
 {{< tdclose >}}
 {{< tdopen >}}
-[Fundamentals (PDF - 1.9MB)]({{< baseurl >}}/resources/mit20_201f13_r1_funda)
+{{% resource_link c3592a21-6acb-700b-8d71-a46139996985 "Fundamentals (PDF - 1.9MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 PD
@@ -120,9 +122,9 @@ L4
 {{< tdopen >}}
 
 
-[Biochemistry Review Exercise (PDF - 1.3MB)]({{< baseurl >}}/resources/mit20_201f13_l4_biochem1)
+{{% resource_link 7f7fae17-aaf1-b726-dfe4-250db5edee6a "Biochemistry Review Exercise (PDF - 1.3MB)" %}}
 
-[Biochemistry Review Notes (PDF)]({{< baseurl >}}/resources/mit20_201f13_l4_biochem2)
+{{% resource_link 526421b5-3836-ff09-ba03-4b254af9851a "Biochemistry Review Notes (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -148,7 +150,7 @@ PD
 R2
 {{< tdclose >}}
 {{< tdopen >}}
-[Drug Metabolism 1 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit20_201f13_r2_dmeta1)
+{{% resource_link 0ccbc7be-d536-7fb3-46f6-c6801655c309 "Drug Metabolism 1 (PDF - 1.2MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 ST
@@ -160,7 +162,7 @@ ST
 L8
 {{< tdclose >}}
 {{< tdopen >}}
-[Drug Metabolism 2 (PDF - 2.3MB)]({{< baseurl >}}/resources/mit20_201f13_l8_dmeta2)
+{{% resource_link d641e10f-7296-7d67-d672-9cd275148626 "Drug Metabolism 2 (PDF - 2.3MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 ST
@@ -172,7 +174,7 @@ ST
 L11
 {{< tdclose >}}
 {{< tdopen >}}
-[Pharmacokinetics (PDF - 1.3MB)]({{< baseurl >}}/resources/mit20_201f13_l11_pharma)
+{{% resource_link 36ebd4d7-2ffa-6fd9-ebee-dbd9a5284149 "Pharmacokinetics (PDF - 1.3MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 PD
@@ -202,7 +204,7 @@ MM
 L13
 {{< tdclose >}}
 {{< tdopen >}}
-[Case Study (PDF - 7.7MB)]({{< baseurl >}}/resources/mit20_201f13_l13_murcko)
+{{% resource_link 07ef54d1-aa2a-2be1-6633-15af3e71712f "Case Study (PDF - 7.7MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 MM
@@ -230,7 +232,7 @@ R6
 
 Project Help Session
 
-[Review of Question 2 (PDF)]({{< baseurl >}}/resources/mit20_201f13_r6_revq2)
+{{% resource_link cfa46f16-fd71-9659-11a9-73e053cc20a1 "Review of Question 2 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -244,7 +246,7 @@ TA
 L22
 {{< tdclose >}}
 {{< tdopen >}}
-[Case Study: Cystic Fibrosis (PDF - 7.0MB)]({{< baseurl >}}/resources/mit20_201f13_l22_cystic)
+{{% resource_link 6a1a510e-2a71-c868-665c-dca747497e6c "Case Study: Cystic Fibrosis (PDF - 7.0MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 MM

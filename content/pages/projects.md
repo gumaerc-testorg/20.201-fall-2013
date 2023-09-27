@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a description of the case study project, details
+  on the steps involved, and examples of student work.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Projects
 uid: ab8208a5-80d2-22b8-ab19-00087532aa0a
 ---
 
-_There are examples of_ [_student work_]({{< baseurl >}}/pages/projects#student_work) _below the instructions_.
+_There are examples of_ {{% resource_link ab8208a5-80d2-22b8-ab19-00087532aa0a "_student work_" "#student_work" %}} _below the instructions_.
 
 Case Study Project
 ------------------
@@ -17,15 +19,15 @@ Along the lines of the case studies developed in the second half of the course, 
 Project Steps
 -------------
 
-1.  [Choose the Topic of Your Case Study]({{< baseurl >}}/pages/projects#Choose)
-2.  [Develop your Proejct]({{< baseurl >}}/pages/projects#Develop)
-3.  [Meet with Instructors to Discuss Your Project as the Term Progresses]({{< baseurl >}}/pages/projects#Meet)
-4.  [Write a Paper that Summarizes you Analysis]({{< baseurl >}}/pages/projects#Write)
-5.  [Submit the Paper]({{< baseurl >}}/pages/projects#Submit)
+1.  {{% resource_link ab8208a5-80d2-22b8-ab19-00087532aa0a "Choose the Topic of Your Case Study" "#Choose" %}}
+2.  {{% resource_link ab8208a5-80d2-22b8-ab19-00087532aa0a "Develop your Proejct" "#Develop" %}}
+3.  {{% resource_link ab8208a5-80d2-22b8-ab19-00087532aa0a "Meet with Instructors to Discuss Your Project as the Term Progresses" "#Meet" %}}
+4.  {{% resource_link ab8208a5-80d2-22b8-ab19-00087532aa0a "Write a Paper that Summarizes you Analysis" "#Write" %}}
+5.  {{% resource_link ab8208a5-80d2-22b8-ab19-00087532aa0a "Submit the Paper" "#Submit" %}}
 
 ### {{< anchor "Choose" >}}{{< /anchor >}}Step 1: Choose the Topic for Your Case Study
 
-Choose a topic based on your own interests and experiences, or from those described below. Submit a topic choice and a brief statement ofthe issue or problem that you will address. Due date for topic choices: [Recitation 5]({{< baseurl >}}/pages/calendar).
+Choose a topic based on your own interests and experiences, or from those described below. Submit a topic choice and a brief statement ofthe issue or problem that you will address. Due date for topic choices: {{% resource_link 6eda4710-3eb5-1b0c-1b02-ce3c36372ba4 "Recitation 5" %}}.
 
 Examples of project topics and broad themes / issues to address:
 
@@ -156,6 +158,6 @@ The paper is due on the last day of class.
 
 ### {{< anchor "student_work" >}}{{< /anchor >}}Examples of Student Work
 
-*   [George's Marvelous Medicine: Perspectives on the Heparin Contamination Crisis (PDF)]({{< baseurl >}}/resources/mit20_201f13_ebaaal-obeid) (Courtesy of Ebaa F. Al-Obeidi. Used with permission.)
-*   [Rituximab: Prospects for Treatment of Multiple Sclerosis (PDF)]({{< baseurl >}}/resources/mit20_201f13_rituximab) (Courtesy of an MIT Student. Used with permission.)
-*   [Gut Reactions: The Importance of Gut Microbial Effects on Drug Metabolism and Disposition (PDF)]({{< baseurl >}}/resources/mit20_201f13_alicetzeng) (Courtesy of Alice Tzeng. Used with permission.)
+*   {{% resource_link 5522dd3a-9588-9c4f-4290-ff859d4a286f "George's Marvelous Medicine: Perspectives on the Heparin Contamination Crisis (PDF)" %}} (Courtesy of Ebaa F. Al-Obeidi. Used with permission.)
+*   {{% resource_link e4324a22-aba7-3195-ad46-75964fa2e86e "Rituximab: Prospects for Treatment of Multiple Sclerosis (PDF)" %}} (Courtesy of an MIT Student. Used with permission.)
+*   {{% resource_link b02f411f-c0d0-831c-1228-60271bd6c61b "Gut Reactions: The Importance of Gut Microbial Effects on Drug Metabolism and Disposition (PDF)" %}} (Courtesy of Alice Tzeng. Used with permission.)
