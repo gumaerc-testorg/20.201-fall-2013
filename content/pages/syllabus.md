@@ -30,7 +30,7 @@ Textbooks
 
 ### Required
 
-Golan, David E., Armen H. Tashjian, and Ehrin J. Armstrong, eds. _Principles of Pharmacology: The Pathophysiologic Basis of Drug Therapy_. Lippincott Williams & Wilkins, 2011. ISBN: 9781608312702. \[Preview with [Google Books](http://books.google.com/books?id=WM7rvNUcrdsC&pg=PAfrontcover)\]
+Golan, David E., Armen H. Tashjian, and Ehrin J. Armstrong, eds. _Principles of Pharmacology: The Pathophysiologic Basis of Drug Therapy_. Lippincott Williams & Wilkins, 2011. ISBN: 9781608312702. \[Preview with {{% resource_link "b533853d-a022-4536-b23b-dd63426b455b" "Google Books" %}}\]
 
 Klaassen, Curtis. _Casarett & Doull's Toxicology: The Basic Science of Poisons_. 8th ed. McGraw-Hill Professional, 2013. ISBN: 9780071769235.
 
@@ -40,13 +40,13 @@ Gilman, A. G., T. W. Rall, et al. _Goodman and Gilman's The Pharmacological Basi
 
 ### Physiology Texts
 
-Guyton, Arthur C., and John E. Hall. _Textbook of Medical Physiology_. 10th ed. Saunders, 2000. ISBN: 9780721686776. \[Preview with [Google Books](http://books.google.com/books?id=Po0zyO0BFzwC&pg=PAfrontcover)\]
+Guyton, Arthur C., and John E. Hall. _Textbook of Medical Physiology_. 10th ed. Saunders, 2000. ISBN: 9780721686776. \[Preview with {{% resource_link "11defbab-5d6d-479d-907f-ea6912d0b9db" "Google Books" %}}\]
 
 Widmaier, Eric, Hershel Raff, and Kevin Strang. _Human Physiology: The Mechanisms of Body Function_. 7 Sub ed. William C Brown Pubulication, 1998. ISBN: 9780070670655.
 
 ### Histology Texts
 
-Mescher, Anthony. _Junqueira's Basic Histology: Text and Atlas_. 13th ed. McGraw-Hill Medical, 2013. ISBN: 9780071780339. \[Preview with [Google Books](http://books.google.com/books?id=A-YcrMY4yZoC&pg=PAfrontcover)\]
+Mescher, Anthony. _Junqueira's Basic Histology: Text and Atlas_. 13th ed. McGraw-Hill Medical, 2013. ISBN: 9780071780339. \[Preview with {{% resource_link "3e17c87a-a58f-4981-87b0-898368c45570" "Google Books" %}}\]
 
 Bloom, William, and Don W. Fawcett. _A Textbook of Histology_. 10th ed. W. B. Saunders, 1975. ISBN: 9780721617572.
 
