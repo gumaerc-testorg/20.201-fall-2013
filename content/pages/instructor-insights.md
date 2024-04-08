@@ -48,7 +48,7 @@ Permission of the instructor
 
 ### Requirements Satisfied
 
-It is a “Restricted Elective,” which means that it intended to prepare students for advanced graduate work. Undergraduate students in biological engineering are [required to take two restricted electives](http://web.mit.edu/be/programs/ugrad_requirements.shtml).
+It is a “Restricted Elective,” which means that it intended to prepare students for advanced graduate work. Undergraduate students in biological engineering are {{% resource_link "1bcec577-7881-4908-9cb7-ec7f519c1e8a" "required to take two restricted electives" %}}.
 
 ### Offered
 
