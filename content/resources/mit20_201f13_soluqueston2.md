@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/20-201-mechanisms-of-drug-actions-fall-2013/d4585ce524300315daf1d5e67ff15212_MIT20_201F13_SoluQueston2.pdf
+file_size: 1145527
 file_type: application/pdf
 learning_resource_types:
 - Exams

@@ -9,7 +9,7 @@ title: Readings
 uid: 929a5c8f-c944-484a-681d-448e0140ed3b
 ---
 
-\[Golan\] = Golan, David E., Armen H. Tashjian, and Ehrin J. Armstrong, eds. _Principles of Pharmacology: The Pathophysiologic Basis of Drug Therapy_. Lippincott Williams & Wilkins, 2011. ISBN: 9781608312702. \[Preview with {{% resource_link "b533853d-a022-4536-b23b-dd63426b455b" "Google Books" %}}\]
+\[Golan\] = Golan, David E., Armen H. Tashjian, and Ehrin J. Armstrong, eds. _Principles of Pharmacology: The Pathophysiologic Basis of Drug Therapy_. Lippincott Williams & Wilkins, 2011. ISBN: 9781608312702. \[Preview with [Google Books](http://books.google.com/books?id=WM7rvNUcrdsC&pg=PAfrontcover)\]
 
 \[C&D\] = Klaassen, Curtis. _Casarett & Doull's Toxicology: The Basic Science of Poisons_. 8th ed. McGraw-Hill Professional, 2013. ISBN: 9780071769235.
 
@@ -127,9 +127,9 @@ Dr. Keith Hoffmaster, Novartis: Drug Transporters 1
 
 \[C&D\] Chapter 7
 
-Giacomini, Kathleen M., Shiew-Mei Huang, et al. "{{% resource_link "c802a6aa-76f0-43ad-8d5b-4fe61be7b731" "Membrane Transporters in Drug Development" %}}." _Nature Reviews Drug Discovery_ 9, no. 3 (2010): 215–36.
+Giacomini, Kathleen M., Shiew-Mei Huang, et al. "[Membrane Transporters in Drug Development](http://dx.doi.org/10.1038/nrd3028)." _Nature Reviews Drug Discovery_ 9, no. 3 (2010): 215–36.
 
-Brouwer, Kim L. R., Dietrich Keppler, et al. "{{% resource_link "e05c46a7-44d6-4b0c-9419-7052610abf25" "In Vitro Methods to Support Transporter Evaluation in Drug Discovery and Development." %}}" _Clinical Pharmacology & Therapeutics_ 94, no. 1 (2013): 95–112.
+Brouwer, Kim L. R., Dietrich Keppler, et al. "[In Vitro Methods to Support Transporter Evaluation in Drug Discovery and Development.](http://www.zora.uzh.ch/93549/1/clpt201381a.pdf)" _Clinical Pharmacology & Therapeutics_ 94, no. 1 (2013): 95–112.
 
 
 {{< tdclose >}}
@@ -197,9 +197,9 @@ Drug Toxicity 1
 
 \[Golan\] Chapters 5 and 41
 
-{{% resource_link "c9a30420-291d-41c3-828b-4c193d61fdcd" "_Guidance for Industry: Drug-Induced Liver Injury: Premarketing Clinical Evaluation_. (PDF)" %}} U.S. Department of Health and Human Services; Food and Drug Administration; Center for Drug Evaluation and Research (CDER); Center for Biologics Evaluation and Research (CBER). July 2009.
+[_Guidance for Industry: Drug-Induced Liver Injury: Premarketing Clinical Evaluation_. (PDF)](https://www.fda.gov/media/116737/download) U.S. Department of Health and Human Services; Food and Drug Administration; Center for Drug Evaluation and Research (CDER); Center for Biologics Evaluation and Research (CBER). July 2009.
 
-Giacomini, Kathleen M., Shiew-Mei Huang, et al. "{{% resource_link "c802a6aa-76f0-43ad-8d5b-4fe61be7b731" "Membrane Transporters in Drug Development" %}}." _Nature Reviews Drug Discovery_ 9, no. 3 (2010): 215–36.
+Giacomini, Kathleen M., Shiew-Mei Huang, et al. "[Membrane Transporters in Drug Development](http://dx.doi.org/10.1038/nrd3028)." _Nature Reviews Drug Discovery_ 9, no. 3 (2010): 215–36.
 
 
 {{< tdclose >}}
@@ -279,13 +279,13 @@ Case Study: Omeprazole Pharmacogenetics
 {{< tdopen >}}
 
 
-Chang, M., G. Tybring, et al. "{{% resource_link "087657e0-8539-4dde-8cc9-ed47f561698d" "Interphenotype Differences in Disposition and Effect on Gastrin Levels of Omeprazole—Suitability of Omeprazole as a Probe for CYP2C19" %}}." _British Journal of Clinical Pharmacology_ 39, no. 5 (1995): 511–18.
+Chang, M., G. Tybring, et al. "[Interphenotype Differences in Disposition and Effect on Gastrin Levels of Omeprazole—Suitability of Omeprazole as a Probe for CYP2C19](http://dx.doi.org/10.1111/j.1365-2125.1995.tb04488.x)." _British Journal of Clinical Pharmacology_ 39, no. 5 (1995): 511–18.
 
-Furuta, Takahisa, Mitsushige Sugimoto, et al. "{{% resource_link "bf18b9a5-f071-4b9d-9565-d0ecdb70e3f7" "CYP2C19 Pharmacogenomics Associated with Therapy of Helicobacter Pylori Infection and Gastro-Esophageal Reflux Diseases with a pPoton Pump Inhibitor" %}}." _Pharmacogenomics_ 8, no. 9 (2007): 1199–210.
+Furuta, Takahisa, Mitsushige Sugimoto, et al. "[CYP2C19 Pharmacogenomics Associated with Therapy of Helicobacter Pylori Infection and Gastro-Esophageal Reflux Diseases with a pPoton Pump Inhibitor](http://dx.doi.org/10.2217/14622416.8.9.1199)." _Pharmacogenomics_ 8, no. 9 (2007): 1199–210.
 
-Lindberg, Per, Peter Nordberg, et al. "{{% resource_link "d29025c8-d5de-4162-93eb-57ade39a19a6" "The Mechanism of Action of the Antisecretory Agent Omeprazole" %}}." _Journal of Medicinal Chemistry_ 29, no. 8 (1986): 1327–29.
+Lindberg, Per, Peter Nordberg, et al. "[The Mechanism of Action of the Antisecretory Agent Omeprazole](http://dx.doi.org/10.1021/jm00158a001)." _Journal of Medicinal Chemistry_ 29, no. 8 (1986): 1327–29.
 
-Court, Michael H. "{{% resource_link "5da4d964-eabe-4e53-ad9a-add296dee193" "A Pharmacogenomics Primer" %}}." _The Journal of Clinical Pharmacology_ 47, no. 9 (2007): 1087–103.
+Court, Michael H. "[A Pharmacogenomics Primer](http://dx.doi.org/10.1177/0091270007303768)." _The Journal of Clinical Pharmacology_ 47, no. 9 (2007): 1087–103.
 
 \[Golan\] Chapter 6 and 46
 
@@ -329,9 +329,9 @@ Case Study: Antibiotics
 
 \[Golan\] Chapters 32, 33, and 34
 
-{{% resource_link "2ffe0bf5-71a8-49bd-a09b-5b20f11444db" "Antibiotic Resistance Threats in the United States, 2013" %}} {{% resource_link 13e2b479-19d3-fe1b-1da0-e7eeb27b6e4d "(PDF - 4.0MB)" %}} Centers for Disease Control and Prevention.
+[Antibiotic Resistance Threats in the United States, 2013](http://www.cdc.gov/drugresistance/threat-report-2013/) {{% resource_link 13e2b479-19d3-fe1b-1da0-e7eeb27b6e4d "(PDF - 4.0MB)" %}} Centers for Disease Control and Prevention.
 
-Dwyer, Daniel J., Michael A. Kohanski, et al. "{{% resource_link "875b03cb-6ec9-401c-80ef-d9dd247e1f22" "Role of Reactive Oxygen Species in Antibiotic Action and Resistance" %}}." _Current Opinion in Microbiology_ 12, no. 5 (2009): 482–9.
+Dwyer, Daniel J., Michael A. Kohanski, et al. "[Role of Reactive Oxygen Species in Antibiotic Action and Resistance](http://dx.doi.org/10.1016/j.mib.2009.06.018)." _Current Opinion in Microbiology_ 12, no. 5 (2009): 482–9.
 
 
 {{< tdclose >}}
@@ -369,7 +369,7 @@ L16
 Dr. Alex Wood, MIT Senior Lecturer/Novartis: Case Study: Oncology Drugs
 {{< tdclose >}}
 {{< tdopen >}}
-Hanahan, Douglas, and Robert A. Weinberg. "{{% resource_link "5b7a135a-dd20-4440-be8d-d951dc7b7166" "Hallmarks of Cancer: The Next Generation" %}}." _Cell_ 144, no. 5 (2011): 646–74.
+Hanahan, Douglas, and Robert A. Weinberg. "[Hallmarks of Cancer: The Next Generation](http://dx.doi.org/10.1016/j.cell.2011.02.013)." _Cell_ 144, no. 5 (2011): 646–74.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -397,7 +397,7 @@ Case Study: Statins
 
 \[Golan\] Chapter 19
 
-Press Release: "{{% resource_link "fdff9c0b-0cde-40dd-8fb7-6dd7053dde4a" "Rate of Kidney Damage in Crestor Patients Is 75 Times Higher Than in Patients Taking Other Cholesterol Drugs" %}}." October 29, 2004.
+Press Release: "[Rate of Kidney Damage in Crestor Patients Is 75 Times Higher Than in Patients Taking Other Cholesterol Drugs](http://www.citizen.org/pressroom/pressroomredirect.cfm?ID=1819)." October 29, 2004.
 
 
 {{< tdclose >}}
@@ -425,9 +425,9 @@ Case Study: GWAS and Statin Toxicity
 {{< tdopen >}}
 
 
-Niemi, M. "{{% resource_link "613ab1ef-da68-468d-b470-750090722d91" "Transporter Pharmacogenetics and Statin Toxicity" %}}." _Clinical Pharmacology & Therapeutics_ 87, no. 1 (2010): 130–3.
+Niemi, M. "[Transporter Pharmacogenetics and Statin Toxicity](http://dx.doi.org/10.1038/clpt.2009.197)." _Clinical Pharmacology & Therapeutics_ 87, no. 1 (2010): 130–3.
 
-Link, E., S. Parish, et al. "{{% resource_link "6a0e622f-47bc-4683-8d31-3a20edc33234" "SLCO1B1 Variants and Statin-Induced Myopathy—A Genomewide Study" %}}." _The New England Journal of Medicine_ 359, no. 8 (2008): 789.
+Link, E., S. Parish, et al. "[SLCO1B1 Variants and Statin-Induced Myopathy—A Genomewide Study](http://dx.doi.org/10.1056/NEJMoa0801936)." _The New England Journal of Medicine_ 359, no. 8 (2008): 789.
 
 
 {{< tdclose >}}
@@ -503,11 +503,11 @@ Case Study: Sarilumab Phase III Clinical Result
 {{< tdopen >}}
 
 
-Carroll, John. "{{% resource_link "fddc23f4-0125-4b95-ba25-1c6a7f3bcf11" "Regeneron, Sanofi Hit a Trio of Goals in First PhIII Test of Rheumatoid Arthritis Drug" %}}." _Fierce Biotech_, November 22, 2013.
+Carroll, John. "[Regeneron, Sanofi Hit a Trio of Goals in First PhIII Test of Rheumatoid Arthritis Drug](http://www.fiercebiotech.com/story/regeneron-sanofi-hit-trio-goals-first-phiii-test-rheumatoid-arthritis-drug/2013-11-22)." _Fierce Biotech_, November 22, 2013.
 
-Huet, Natalie (rep.) and Elizabeth Piper (ed.). "{{% resource_link "e3a432ba-8f2f-4ad3-9de8-2463ec3e3611" "Sanofi, Regeneron Arthritis Drug Meets Goals in Phase 3 Trial" %}}." _Reuters_, November 22, 2013.
+Huet, Natalie (rep.) and Elizabeth Piper (ed.). "[Sanofi, Regeneron Arthritis Drug Meets Goals in Phase 3 Trial](http://www.reuters.com/article/2013/11/22/us-sanofi-regeneron-clinicaltrial-idUSBRE9AL06S20131122)." _Reuters_, November 22, 2013.
 
-Bennett, Simeon. "{{% resource_link "ee02b19d-a7ed-42df-b72b-3876f9c3d12f" "Sanofi Rheumatoid Arthritis Drug Cuts Pain, Damage in Study" %}}." _Bloomberg_, November 22, 2013.
+Bennett, Simeon. "[Sanofi Rheumatoid Arthritis Drug Cuts Pain, Damage in Study](http://www.bloomberg.com/news/2013-11-22/sanofi-rheumatoid-arthritis-drug-reduces-pain-damage-in-study.html)." _Bloomberg_, November 22, 2013.
 
 
 {{< tdclose >}}
