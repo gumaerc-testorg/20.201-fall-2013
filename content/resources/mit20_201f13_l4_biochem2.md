@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/20-201-mechanisms-of-drug-actions-fall-2013/526421b53836ff09ba034b254af9851a_MIT20_201F13_L4_biochem2.pdf
+file_size: 115602
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

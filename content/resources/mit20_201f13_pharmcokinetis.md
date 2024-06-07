@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding pharmacokinetics.
 file: /courses/20-201-mechanisms-of-drug-actions-fall-2013/404296c94d342876b62422d319f06699_MIT20_201F13_Pharmcokinetis.pdf
+file_size: 150785
 file_type: application/pdf
 learning_resource_types:
 - Assignments

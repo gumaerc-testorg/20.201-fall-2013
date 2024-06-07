@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource file contains information regarding lecture 22.
 file: /courses/20-201-mechanisms-of-drug-actions-fall-2013/6a1a510e2a71c868665cdca747497e6c_MIT20_201F13_L22_cystic.pdf
+file_size: 10364299
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
