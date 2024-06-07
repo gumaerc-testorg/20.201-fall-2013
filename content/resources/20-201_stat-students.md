@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/20-201-mechanisms-of-drug-actions-fall-2013/d090fb699891840fb23ed7bae13625d2_20-201_stat-students.png
+file_size: 2813
 file_type: image/png
 image_metadata:
   caption: ''

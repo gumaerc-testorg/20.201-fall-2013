@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding case study.
 file: /courses/20-201-mechanisms-of-drug-actions-fall-2013/72f814009fc42ca3108e8c2eac108b55_MIT20_201F13_CseStdy_Prodrg.pdf
+file_size: 160608
 file_type: application/pdf
 learning_resource_types:
 - Assignments
