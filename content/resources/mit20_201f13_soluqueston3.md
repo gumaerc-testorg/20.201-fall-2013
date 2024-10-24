@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/20-201-mechanisms-of-drug-actions-fall-2013/5ce75bd459f2a7ddb7550004940a2f93_MIT20_201F13_SoluQueston3.pdf
+file: /ol-ocw-studio-app/courses/20-201-mechanisms-of-drug-actions-fall-2013/5ce75bd459f2a7ddb7550004940a2f93_MIT20_201F13_SoluQueston3.pdf
 file_size: 270868
 file_type: application/pdf
 learning_resource_types:
