@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding pharmacokinetics solutions.
-file: /courses/20-201-mechanisms-of-drug-actions-fall-2013/d414191b6fed8ca17fa8d614ada28719_MIT20_201F13_Phamcknts_Sol.pdf
+file: /ol-ocw-studio-app/courses/20-201-mechanisms-of-drug-actions-fall-2013/d414191b6fed8ca17fa8d614ada28719_MIT20_201F13_Phamcknts_Sol.pdf
 file_size: 183918
 file_type: application/pdf
 learning_resource_types:
