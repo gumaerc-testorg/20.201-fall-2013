@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding fundamentals solutions. '
-file: /courses/20-201-mechanisms-of-drug-actions-fall-2013/188cd5cadf050f38206bfec2874ccd54_MIT20_201F13_Fndametls_Sol.pdf
+file: /ol-ocw-studio-app/courses/20-201-mechanisms-of-drug-actions-fall-2013/188cd5cadf050f38206bfec2874ccd54_MIT20_201F13_Fndametls_Sol.pdf
 file_size: 121404
 file_type: application/pdf
 learning_resource_types:
