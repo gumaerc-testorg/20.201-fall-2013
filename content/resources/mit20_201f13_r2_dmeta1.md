@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource file contains information regarding recitation 2.
-file: /ol-ocw-studio-app/courses/20-201-mechanisms-of-drug-actions-fall-2013/0ccbc7bed5367fb346f6c6801655c309_MIT20_201F13_R2_dmeta1.pdf
+file: /courses/20-201-mechanisms-of-drug-actions-fall-2013/0ccbc7bed5367fb346f6c6801655c309_MIT20_201F13_R2_dmeta1.pdf
 file_size: 1247376
 file_type: application/pdf
 learning_resource_types: []
