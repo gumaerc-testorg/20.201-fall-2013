@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding case study.
-file: /ol-ocw-studio-app/courses/20-201-mechanisms-of-drug-actions-fall-2013/287b59f13c229b2ed1e469fabe579fa6_MIT20_201F13_CseStdy_Srlmb.pdf
+file: /courses/20-201-mechanisms-of-drug-actions-fall-2013/287b59f13c229b2ed1e469fabe579fa6_MIT20_201F13_CseStdy_Srlmb.pdf
 file_size: 2432531
 file_type: application/pdf
 learning_resource_types:

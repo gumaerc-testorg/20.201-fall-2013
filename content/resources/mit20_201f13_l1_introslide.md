@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource file contains information regarding lecture 1.
-file: /ol-ocw-studio-app/courses/20-201-mechanisms-of-drug-actions-fall-2013/2260e75bbccb20b90ae03351363b7a2f_MIT20_201F13_L1_introslide.pdf
+file: /courses/20-201-mechanisms-of-drug-actions-fall-2013/2260e75bbccb20b90ae03351363b7a2f_MIT20_201F13_L1_introslide.pdf
 file_size: 211540
 file_type: application/pdf
 learning_resource_types: []
