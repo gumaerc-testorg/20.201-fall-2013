@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding student example.
-file: /ol-ocw-studio-app/courses/20-201-mechanisms-of-drug-actions-fall-2013/e4324a22aba73195ad4675964fa2e86e_MIT20_201F13_Rituximab.pdf
+file: /courses/20-201-mechanisms-of-drug-actions-fall-2013/e4324a22aba73195ad4675964fa2e86e_MIT20_201F13_Rituximab.pdf
 file_size: 690579
 file_type: application/pdf
 learning_resource_types:
