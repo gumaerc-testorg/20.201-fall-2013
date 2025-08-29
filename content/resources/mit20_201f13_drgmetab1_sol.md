@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "This file contains information regarding drug metabolism 1.\r\n"
-file: /courses/20-201-mechanisms-of-drug-actions-fall-2013/ecf225ae59afa7b08946dbd0bf02f54a_MIT20_201F13_DrgMetab1_Sol.pdf
+file: /ol-ocw-studio-app/courses/20-201-mechanisms-of-drug-actions-fall-2013/ecf225ae59afa7b08946dbd0bf02f54a_MIT20_201F13_DrgMetab1_Sol.pdf
 file_size: 72840
 file_type: application/pdf
 learning_resource_types:

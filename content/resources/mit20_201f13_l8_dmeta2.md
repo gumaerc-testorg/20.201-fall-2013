@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource file contains information regarding lecture 8.
-file: /courses/20-201-mechanisms-of-drug-actions-fall-2013/d641e10f72967d67d6729cd275148626_MIT20_201F13_L8_dmeta2.pdf
+file: /ol-ocw-studio-app/courses/20-201-mechanisms-of-drug-actions-fall-2013/d641e10f72967d67d6729cd275148626_MIT20_201F13_L8_dmeta2.pdf
 file_size: 2452336
 file_type: application/pdf
 learning_resource_types: []
