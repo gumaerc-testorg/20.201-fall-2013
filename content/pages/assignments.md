@@ -103,7 +103,7 @@ Lectures 17 and 18
 
 {{% resource_link 72f81400-9fc4-2ca3-108e-8c2eac108b55 "Prodrug Metabolism Mini Case Study (PDF)" %}}
 
-Pollack, Andrew. "[Hepatitis C, A Silent Killer, Meets Its Match](http://www.nytimes.com/2013/11/05/health/hepatitis-c-a-silent-killer-meets-its-match.html?_r=0)," _The New York Times_, November 4, 2013.
+Pollack, Andrew. "{{% resource_link "a1d50a55-bd6c-4a82-928d-b28673968617" "Hepatitis C, A Silent Killer, Meets Its Match" %}}," _The New York Times_, November 4, 2013.
 
 
 {{< tdclose >}}
